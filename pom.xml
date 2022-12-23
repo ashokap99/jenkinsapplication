@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.example</groupId>
 	<artifactId>spring-boot-native-Query-1</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+
 	<packaging>war</packaging>
 	<name>spring-boot-native-Query-1</name>
 	<description>Spring Data Jpa application</description>
